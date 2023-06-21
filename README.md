@@ -1,6 +1,6 @@
 # Javascript Data Structures and Algorithms by Colt Steele
 
-#### This course crams months of computer science and interview prep material into 20 hours of video. 
+#### This course crams months of computer science and interview prep material into sections. 
 #### We start with the basics and then eventually cover “advanced topics” that similar courses shy away from like Heaps, Graphs, and Dijkstra’s Shortest Path Algorithm. 
 
 #### Start by teaching you how to analyze your code’s time and space complexity using Big O notation. 
